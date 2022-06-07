@@ -1,0 +1,10 @@
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\bin\Debug\ООП 2 ЛАБА.exe.config
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\bin\Debug\ООП 2 ЛАБА.exe
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\bin\Debug\ООП 2 ЛАБА.pdb
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП 2 ЛАБА.csproj.AssemblyReference.cache
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП_2_ЛАБА.Properties.Resources.resources
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП 2 ЛАБА.csproj.GenerateResource.cache
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП 2 ЛАБА.csproj.CoreCompileInputs.cache
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП 2 ЛАБА.exe
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП 2 ЛАБА.pdb
+C:\Users\79624\source\repos\ООП 2 ЛАБА\ООП 2 ЛАБА\obj\Debug\ООП_2_ЛАБА.FruitShop.resources
